@@ -28,9 +28,6 @@ I’m 14, from Scotland, learning Java. My dream is to become a great programmer
 <!-- GitHub Stats -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=norvdx&show_icons=true&title_color=f29987&text_color=f5f5f5&icon_color=f29987&bg_color=0d1117)
 
-<!-- WakaTime Stats -->
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=norvdx&show_icons=true&theme=tokyonight&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://komarev.com/ghpvc/?username=norvdx&color=f29987)
 
 
