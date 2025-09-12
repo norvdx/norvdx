@@ -31,5 +31,36 @@ I’m 14, from Scotland, learning Java. My dream is to become a great programmer
 ![](https://komarev.com/ghpvc/?username=norvdx&color=f29987)
 
 
+
+## My contacts
+
+<a href="https://www.github.com/norvdx" target="_blank" rel="noreferrer" style="text-decoration: none !important;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="48" height="48" alt="GitHub" />
+    </picture>
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/norvdx" target="_blank" rel="noreferrer" style="text-decoration: none !important;">
+    <img
+      src="https://github.com/user-attachments/assets/d8bccf85-7904-4a47-a310-6feafea92b00"
+      width="48"
+      height="48"
+      alt="Telegram"
+    />
+  </a>
+
+  <!-- TikTok -->
+  <a href="https://www.tiktok.com/@norvdxx?_t=ZN-8zfbUo6CMnW&_r=1" target="_blank" rel="noreferrer" style="text-decoration: none !important;">
+    <img
+      src="https://github.com/user-attachments/assets/89e8adbc-cfb3-45d2-8a08-6d6ea574129b"
+      width="48"
+      height="48"
+      alt="TikTok"
+    />
+  </a>
+
 </div>
 
