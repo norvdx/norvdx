@@ -23,7 +23,7 @@ I’m 14, from Scotland, learning Java. My dream is to become a great programmer
 
 
 <!-- Top Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norvdx&layout=donut&count_private=true&title_color=f29987&text_color=f5f5f5&icon_color=f29987&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norvdx&layout=compact&count_private=true&title_color=f29987&text_color=f5f5f5&icon_color=f29987&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- GitHub Stats -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=norvdx&show_icons=true&title_color=f29987&text_color=f5f5f5&icon_color=f29987&bg_color=0d1117)
