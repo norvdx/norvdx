@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/norvdx">
-  <img src="https://github.com/norvdx/norvdx/blob/main/anime-gif.gif" alt="Header"/>
+  <img src="https://github.com/norvdx/norvdx/blob/main/sky.gif" alt="Header"/>
 </a>
 
 
