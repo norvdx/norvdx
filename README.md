@@ -21,7 +21,7 @@ I’m 14, from Scotland, learning Java. My dream is to become a great programmer
 
 
 <p align="center">
-  <!-- Streak Stats -->
+  <!-- Streak Stats skibidi -->
   <img 
     src="https://streak-stats.demolab.com?user=norvdx&theme=tokyonight&hide_border=true" 
     alt="GitHub Streak"
